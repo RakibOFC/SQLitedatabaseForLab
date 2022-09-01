@@ -133,7 +133,6 @@
             android:id="@+id/bdelete"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:backgroundTint="#F60606"
             android:text="Delete" />
 
     </LinearLayout>
