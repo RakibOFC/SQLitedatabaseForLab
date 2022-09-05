@@ -76,7 +76,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Roll: "
+            android:text="Mobile: "
             android:textSize="15sp" />
 
 
